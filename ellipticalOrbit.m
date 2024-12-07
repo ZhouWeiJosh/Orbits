@@ -15,4 +15,4 @@ for e = 0.1:0.1:0.9
     hold on
 end
 
-title('Elliptical Orbit')
+title('Elliptical Orbit');
